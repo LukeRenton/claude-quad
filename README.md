@@ -11,11 +11,9 @@
 
 <br />
 
-<!-- DEMO VIDEO: after creating the new repo, drag Claude_Quad_Demo.mp4 into an
-     issue/comment box on github.com, copy the user-attachments URL it generates,
-     and paste it on the line below (a bare URL on its own line renders inline). -->
+https://github.com/user-attachments/assets/9834599f-684f-4c77-a746-6ae5333aabca
 
-📹 [Watch the demo](Claude_Quad_Demo.mp4)
+<sub>📹 Video not playing? [Watch the demo](Claude_Quad_Demo.mp4).</sub>
 
 </div>
 
