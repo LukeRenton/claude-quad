@@ -6,7 +6,6 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-required-4D4D4D?logo=windowsterminal&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-22C55E)
 
 <br />
