@@ -1,0 +1,42 @@
+[
+  {
+    "name": "claude-general",
+    "guid": "{c1a0d901-0001-4001-8001-c1a0dac10001}",
+    "hidden": true,
+    "colorScheme": "ClaudeQuadBlue",
+    "commandline": "powershell.exe -NoExit",
+    "tabTitle": "CLAUDE-general",
+    "suppressApplicationTitle": true,
+    "useAcrylic": false
+  },
+  {
+    "name": "claude-ui",
+    "guid": "{c1a0d901-0002-4002-8002-c1a0dac10002}",
+    "hidden": true,
+    "colorScheme": "ClaudeQuadPink",
+    "commandline": "powershell.exe -NoExit",
+    "tabTitle": "CLAUDE-UI",
+    "suppressApplicationTitle": true,
+    "useAcrylic": false
+  },
+  {
+    "name": "claude-backend",
+    "guid": "{c1a0d901-0003-4003-8003-c1a0dac10003}",
+    "hidden": true,
+    "colorScheme": "ClaudeQuadGreen",
+    "commandline": "powershell.exe -NoExit",
+    "tabTitle": "CLAUDE-backend",
+    "suppressApplicationTitle": true,
+    "useAcrylic": false
+  },
+  {
+    "name": "claude-research",
+    "guid": "{c1a0d901-0004-4004-8004-c1a0dac10004}",
+    "hidden": true,
+    "colorScheme": "ClaudeQuadPurple",
+    "commandline": "powershell.exe -NoExit",
+    "tabTitle": "CLAUDE-research",
+    "suppressApplicationTitle": true,
+    "useAcrylic": false
+  }
+]
